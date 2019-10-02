@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://kaexogheey.mad-duck.com/sitemap.xml
